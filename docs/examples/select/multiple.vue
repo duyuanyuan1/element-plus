@@ -99,5 +99,45 @@ const options = [
     value: 'Option5',
     label: 'Option5',
   },
+    {
+    value: 'Option6',
+    label: 'Option6',
+  },
+  {
+    value: 'Option7',
+    label: 'Option7',
+  },
+  {
+    value: 'Option8',
+    label: 'Option8',
+  },
+  {
+    value: 'Option9',
+    label: 'Option9',
+  },
+  {
+    value: 'Option10',
+    label: 'Option10',
+  },
+    {
+    value: 'Option11',
+    label: 'Option11',
+  },
+  {
+    value: 'Option12',
+    label: 'Option12',
+  },
+  {
+    value: 'Option13',
+    label: 'Option13',
+  },
+  {
+    value: 'Option14',
+    label: 'Option14',
+  },
+  {
+    value: 'Option15',
+    label: 'Option15',
+  },
 ]
 </script>
